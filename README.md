@@ -110,5 +110,6 @@ C:\Users\ユーザー名\AppData\Roaming\ChordProgressionApp\
 ---
 
 ## スクリーンショット
-<img width="30%"　 alt="{50546EF1-1DD9-4C2D-994E-A64FC909C9A5}" src="https://github.com/user-attachments/assets/0f7c4b49-6436-486b-909e-0924b940d779" />
+
+![アプリの画面]<img width="30%"　 alt="{50546EF1-1DD9-4C2D-994E-A64FC909C9A5}" src="https://github.com/user-attachments/assets/0f7c4b49-6436-486b-909e-0924b940d779" />
 
