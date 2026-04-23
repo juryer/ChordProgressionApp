@@ -103,7 +103,8 @@ C:\Users\ユーザー名\AppData\Roaming\ChordProgressionApp\
 | MidiExporter | MIDIファイル出力 |
 | SettingsDialog | 設定ダイアログ |
 | Song / SongSection / SongRepository | 楽曲モデル・永続化 |
-| SongEditorWindow | 楽曲エディタ（キー設定・歌詞入力） |
+| SongEditorWindow | 楽曲エディタ（キー設定・歌詞入力） |<img width="1020" height="702" alt="image_2026_4_23" src="https://github.com/user-attachments/assets/2e7ba6b6-6dca-43d9-8b50-bfb401745108" />
+
 | SongListWindow | 楽曲一覧・MIDI出力 |
 | ExportUtil | PNG・HTML出力ユーティリティ |
 
@@ -111,5 +112,12 @@ C:\Users\ユーザー名\AppData\Roaming\ChordProgressionApp\
 
 ## スクリーンショット
 
-![アプリの画面]<img width="30%"　 alt="{50546EF1-1DD9-4C2D-994E-A64FC909C9A5}" src="https://github.com/user-attachments/assets/0f7c4b49-6436-486b-909e-0924b940d779" />
+<img src="https://github.com/user-attachments/assets/0b25a2f5-e17e-4f92-8a23-fc8595710320" width="40%">
+<img src="https://github.com/user-attachments/assets/02e4a217-6e96-461c-896d-928e00fc660f" width="20%">
+
+## スクリーンショット（楽曲エディタ、MIDI出力など）
+
+<img src="https://github.com/user-attachments/assets/c8192589-1e2b-49b1-8d13-d50ea55c7db7" width="40%">
+<img src="https://github.com/user-attachments/assets/08eebecc-2994-4425-9272-ab3c3edc2dfa" width="30%">
+
 
